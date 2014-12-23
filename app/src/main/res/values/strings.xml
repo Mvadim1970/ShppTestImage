@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ShppTestImage</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button2">Design</string>
+    <string name="button3">Develop</string>
+    <string name="button4">Distribute</string>
+    <string name="image_name">BigPhone</string>
+
+
+</resources>
